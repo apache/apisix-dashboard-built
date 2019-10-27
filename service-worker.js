@@ -1,4 +1,4 @@
-importScripts("/apisix/dashboard/precache-manifest.4ae2b6ba5b45d5d3056cc517839ca5f8.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/apisix/dashboard/precache-manifest.37561fe1ea7a238498eb9ee403d92a01.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more

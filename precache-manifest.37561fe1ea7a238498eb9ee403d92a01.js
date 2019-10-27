@@ -16,7 +16,7 @@
  */
 self.__precacheManifest = [
   {
-    "revision": "25e5291cd56d121c548a",
+    "revision": "0d189f46de5efe53e519",
     "url": "/apisix/dashboard/css/chunk-82b74634.2f3ac95f.css"
   },
   {
@@ -24,144 +24,144 @@ self.__precacheManifest = [
     "url": "/apisix/dashboard/robots.txt"
   },
   {
-    "revision": "25e5291cd56d121c548a",
-    "url": "/apisix/dashboard/js/chunk-82b74634.0573fb0d.js"
+    "revision": "0d189f46de5efe53e519",
+    "url": "/apisix/dashboard/js/chunk-82b74634.af2d427c.js"
   },
   {
-    "revision": "ea6894de9da03f2db918",
+    "revision": "f24e52a046c854d1c720",
     "url": "/apisix/dashboard/css/404.785e2dd6.css"
   },
   {
-    "revision": "88c5797e123a8f786c07",
+    "revision": "d66d11d16a7e5dac7db3",
     "url": "/apisix/dashboard/css/app.eb7cde4c.css"
   },
   {
-    "revision": "88c5797e123a8f786c07",
-    "url": "/apisix/dashboard/js/app.261e3d97.js"
+    "revision": "d66d11d16a7e5dac7db3",
+    "url": "/apisix/dashboard/js/app.b766a633.js"
   },
   {
     "revision": "4086b88645bfa62d3d64",
     "url": "/apisix/dashboard/js/auth-redirect.ea1dc88f.js"
   },
   {
-    "revision": "d591e5500304b210e2ce",
+    "revision": "dfac476aa4a87215e883",
     "url": "/apisix/dashboard/css/chunk-1e3c41e0.35d5be1c.css"
   },
   {
-    "revision": "d591e5500304b210e2ce",
-    "url": "/apisix/dashboard/js/chunk-1e3c41e0.3a52200e.js"
+    "revision": "dfac476aa4a87215e883",
+    "url": "/apisix/dashboard/js/chunk-1e3c41e0.0c836f37.js"
   },
   {
-    "revision": "b1c7a93981bf5d0b768e",
+    "revision": "cf4ae57831ab9595980e",
     "url": "/apisix/dashboard/css/chunk-23daf4a4.35d5be1c.css"
   },
   {
-    "revision": "b1c7a93981bf5d0b768e",
-    "url": "/apisix/dashboard/js/chunk-23daf4a4.1894c21a.js"
+    "revision": "cf4ae57831ab9595980e",
+    "url": "/apisix/dashboard/js/chunk-23daf4a4.81d65bcf.js"
   },
   {
-    "revision": "e13618f7441a71d38fb5",
+    "revision": "cf40b34822d8cd6075a0",
     "url": "/apisix/dashboard/css/chunk-2d45a3ee.d7e0e035.css"
   },
   {
-    "revision": "e13618f7441a71d38fb5",
-    "url": "/apisix/dashboard/js/chunk-2d45a3ee.d79305ee.js"
+    "revision": "cf40b34822d8cd6075a0",
+    "url": "/apisix/dashboard/js/chunk-2d45a3ee.df642488.js"
   },
   {
-    "revision": "d42f59af1a0b0bc3a15b",
-    "url": "/apisix/dashboard/js/chunk-2fccb682.e67773d9.js"
-  },
-  {
-    "revision": "c3e155918cf94b64f0d8",
+    "revision": "e66fc7b029211a1b9271",
     "url": "/apisix/dashboard/css/chunk-32a09f8e.f5cff45f.css"
   },
   {
-    "revision": "c3e155918cf94b64f0d8",
-    "url": "/apisix/dashboard/js/chunk-32a09f8e.9378f0ab.js"
+    "revision": "e66fc7b029211a1b9271",
+    "url": "/apisix/dashboard/js/chunk-32a09f8e.155802ec.js"
   },
   {
-    "revision": "97b05b1fa1dc57590d00",
+    "revision": "7c6a7ba4c0a9d51e89db",
     "url": "/apisix/dashboard/css/chunk-35f1b43d.9b00da3b.css"
   },
   {
-    "revision": "97b05b1fa1dc57590d00",
-    "url": "/apisix/dashboard/js/chunk-35f1b43d.a0525081.js"
+    "revision": "7c6a7ba4c0a9d51e89db",
+    "url": "/apisix/dashboard/js/chunk-35f1b43d.5d47a0c2.js"
   },
   {
-    "revision": "5e92d7930dc00797a62b",
+    "revision": "e862bb1f6e3bd9e4a630",
+    "url": "/apisix/dashboard/js/chunk-450dda4e.c92fd04f.js"
+  },
+  {
+    "revision": "5082e131deb28c8bb905",
     "url": "/apisix/dashboard/css/chunk-4cf90b49.8db8c2e3.css"
   },
   {
-    "revision": "5e92d7930dc00797a62b",
-    "url": "/apisix/dashboard/js/chunk-4cf90b49.7b024ad6.js"
+    "revision": "5082e131deb28c8bb905",
+    "url": "/apisix/dashboard/js/chunk-4cf90b49.7bb9b0d6.js"
   },
   {
-    "revision": "8f14b0ddabaa7f16c9ce",
+    "revision": "3ca5cfbf9ce5cb4f77ef",
     "url": "/apisix/dashboard/css/chunk-6b2d316b.32f5687b.css"
   },
   {
-    "revision": "8f14b0ddabaa7f16c9ce",
-    "url": "/apisix/dashboard/js/chunk-6b2d316b.acea4778.js"
+    "revision": "3ca5cfbf9ce5cb4f77ef",
+    "url": "/apisix/dashboard/js/chunk-6b2d316b.9453eb6a.js"
   },
   {
-    "revision": "52dd7a2519d23ea4da6b",
-    "url": "/apisix/dashboard/js/401.fdb0bb28.js"
+    "revision": "756b8d13300e58625f2d",
+    "url": "/apisix/dashboard/js/401.697a5c77.js"
   },
   {
-    "revision": "ea6894de9da03f2db918",
-    "url": "/apisix/dashboard/js/404.dc5150e8.js"
+    "revision": "f24e52a046c854d1c720",
+    "url": "/apisix/dashboard/js/404.46539e11.js"
   },
   {
-    "revision": "834405ee6e2b07fb9bcb",
+    "revision": "040dba120826934b3a05",
     "url": "/apisix/dashboard/css/chunk-a1ac1f02.35d5be1c.css"
   },
   {
-    "revision": "834405ee6e2b07fb9bcb",
-    "url": "/apisix/dashboard/js/chunk-a1ac1f02.64f2d5cb.js"
+    "revision": "040dba120826934b3a05",
+    "url": "/apisix/dashboard/js/chunk-a1ac1f02.fd958ca1.js"
   },
   {
-    "revision": "a4627451aa77df18302a",
-    "url": "/apisix/dashboard/js/chunk-elementUI.77a60e96.js"
+    "revision": "b6c30548a80a9222cd53",
+    "url": "/apisix/dashboard/js/chunk-elementUI.3847f675.js"
   },
   {
-    "revision": "df755ebf5d41a207102c",
+    "revision": "dff4932928ef395d9ccb",
     "url": "/apisix/dashboard/css/chunk-libs.ee57d822.css"
   },
   {
-    "revision": "df755ebf5d41a207102c",
-    "url": "/apisix/dashboard/js/chunk-libs.e0ff45d6.js"
+    "revision": "dff4932928ef395d9ccb",
+    "url": "/apisix/dashboard/js/chunk-libs.3a36316d.js"
   },
   {
-    "revision": "0fea5a27542f42a5349b",
+    "revision": "7cd6b9282d8baee0b8f0",
     "url": "/apisix/dashboard/css/complex-table.f5cff45f.css"
   },
   {
-    "revision": "0fea5a27542f42a5349b",
-    "url": "/apisix/dashboard/js/complex-table.9ed00eda.js"
+    "revision": "7cd6b9282d8baee0b8f0",
+    "url": "/apisix/dashboard/js/complex-table.ce7d5a5e.js"
   },
   {
-    "revision": "f683907548ececfad78d",
+    "revision": "80126fcdbdcaab8bc7d4",
     "url": "/apisix/dashboard/css/login.13126c54.css"
   },
   {
-    "revision": "f683907548ececfad78d",
-    "url": "/apisix/dashboard/js/login.85747d93.js"
+    "revision": "80126fcdbdcaab8bc7d4",
+    "url": "/apisix/dashboard/js/login.d738d12c.js"
   },
   {
-    "revision": "23d5e37079e18a9bb470",
+    "revision": "f6e708cc2bb923f647cf",
     "url": "/apisix/dashboard/css/profile.ae2f4452.css"
   },
   {
-    "revision": "23d5e37079e18a9bb470",
-    "url": "/apisix/dashboard/js/profile.d89a6a14.js"
+    "revision": "f6e708cc2bb923f647cf",
+    "url": "/apisix/dashboard/js/profile.89162322.js"
   },
   {
     "revision": "a5436c1432d1006a90ac",
     "url": "/apisix/dashboard/js/redirect.69d13fca.js"
   },
   {
-    "revision": "adf0f7c0f3ed7b526c42",
-    "url": "/apisix/dashboard/js/runtime.fbb13970.js"
+    "revision": "84b3b791eedab1f5f0ed",
+    "url": "/apisix/dashboard/js/runtime.c34df5b0.js"
   },
   {
     "revision": "0f4bc32b0f52f7cfb7d19305a6517724",
@@ -184,11 +184,11 @@ self.__precacheManifest = [
     "url": "/apisix/dashboard/img/401.089007e7.gif"
   },
   {
-    "revision": "6f303c89de6ed8b11bef7fac0a587860",
+    "revision": "da61b2cce1882cf6ba6f83c602030927",
     "url": "/apisix/dashboard/index.html"
   },
   {
-    "revision": "52dd7a2519d23ea4da6b",
+    "revision": "756b8d13300e58625f2d",
     "url": "/apisix/dashboard/css/401.36e6471e.css"
   }
 ];
